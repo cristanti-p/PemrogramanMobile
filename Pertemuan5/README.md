@@ -92,4 +92,4 @@ Selesaikan [Codelabs: Your first Flutter app](https://codelabs.developers.google
 `README.md` berisi: capture hasil akhir tiap praktikum (*side-by-side*, bisa juga berupa file GIF agar terlihat proses perubahan ketika ada aksi dari pengguna) dengan menampilkan NIM dan Nama Anda sebagai ciri pekerjaan Anda.
 
 ## Soal 6
-Kumpulkan berupa link repository/commit GitHub Anda kepada dosen yang telah disepakati!
+Kumpulkan berupa link repository/commit GitHub Anda kepada dosen yang telah disepakati!!
