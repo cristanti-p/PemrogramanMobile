@@ -15,7 +15,7 @@ void main(){
     88: '244107060093',
   };
 
-   var mhs1 = Map<String, String>();
+  var mhs1 = Map<String, String>();
   mhs1 ['name'] = 'Revalina';
   mhs1 ['nim'] = '244107060093';
 
