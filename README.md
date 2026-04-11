@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laporan Praktikum #05 | Aplikasi Pertama dan Widget Dasar Flutter
 
 ## Identitas Mahasiswa
@@ -93,3 +94,6 @@ Selesaikan [Codelabs: Your first Flutter app](https://codelabs.developers.google
 
 ## Soal 6
 Kumpulkan berupa link repository/commit GitHub Anda kepada dosen yang telah disepakati!
+=======
+# PemrogramanMobile
+>>>>>>> 5ca13b7707d16b2f1995ce9e96c8d98972909c5e
