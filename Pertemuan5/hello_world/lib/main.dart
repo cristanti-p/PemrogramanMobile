@@ -30,10 +30,8 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  // Variabel untuk menyimpan tanggal yang dipilih
   DateTime selectedDate = DateTime.now();
 
-  // Fungsi untuk memunculkan kalender (Date Picker)
   Future<void> _selectDate(BuildContext context) async {
     final DateTime? picked = await showDatePicker(
         context: context,
@@ -59,7 +57,6 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisSize: MainAxisSize.min,
           children: <Widget>[
-            // Menampilkan tanggal yang dipilih dalam format YYYY-MM-DD
             Text(
               "${selectedDate.toLocal()}".split(' ')[0],
               style: const TextStyle(fontSize: 30, fontWeight: FontWeight.bold),

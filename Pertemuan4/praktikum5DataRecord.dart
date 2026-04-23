@@ -11,10 +11,10 @@ void main(){
   print(mahasiswa);
 
   var mahasiswa2 = ('Revalina', a: 244107060093, b: true, 'last');
-  print(mahasiswa2.$1); // Prints 'first'
-  print(mahasiswa2.a); // Prints 2
-  print(mahasiswa2.b); // Prints true
-  print(mahasiswa2.$2); // Prints 'last'
+  print(mahasiswa2.$1); 
+  print(mahasiswa2.a); 
+  print(mahasiswa2.b);
+  print(mahasiswa2.$2); 
 }
 
 (int, int) tukar((int, int) record) {
